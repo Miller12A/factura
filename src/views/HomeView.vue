@@ -3,7 +3,7 @@
     <div class="w-full h-full flex justify-center items-center">
       <h1 id="typewriter" class="text-4xl font-bold"></h1>
     </div>
-    <h1 class="text-4xl font-extrabold text-black">Facturacion</h1>
+    <h1 class="text-4xl font-extrabold text-black">Facturacion Electronica</h1>
     <div class="mt-12 mb-2">
       <button @click="nuevaFactura" type="button" class="focus:outline-none text-white bg-green-700 hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800">Nueva Factura</button>
       <button @click="guardarFactura" type="button" class="focus:outline-none text-white bg-yellow-400 hover:bg-yellow-500 focus:ring-4 focus:ring-yellow-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:focus:ring-yellow-900">Guardar Factura</button>
